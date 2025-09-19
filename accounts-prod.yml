@@ -7,5 +7,5 @@ accounts:
     name: "{cipher}5401f836761d6ae842954d41ca3e6baa917101fc316584ca255a640c1e6fa093"
     email: "{cipher}9c203528d076ce10d0a6157bb3e5b26f46013e84325b1f3e18e9db1cadf8677a"
   onCallSupport:
-    - {cipher}a73a968da5cfa9e41b506d29358eb1dae2e1a1eab118c18d2c2fe5f932b9ac8b
-    - {cipher}49daee91be0f69e48ccee93d1672aad9b41db3b0cb21db9b313f46a8c9e4b1ba
+    - "{cipher}a73a968da5cfa9e41b506d29358eb1dae2e1a1eab118c18d2c2fe5f932b9ac8b"
+    - "{cipher}49daee91be0f69e48ccee93d1672aad9b41db3b0cb21db9b313f46a8c9e4b1ba"
