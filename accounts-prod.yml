@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related Prod APIs"
   contactDetails:
     name: "Patricia Ashley"
-    email: "9c203528d076ce10d0a6157bb3e5b26f46013e84325b1f3e18e9db1cadf8677a"
+    email: "{cipher}9c203528d076ce10d0a6157bb3e5b26f46013e84325b1f3e18e9db1cadf8677a"
   onCallSupport:
     - (555)895-1234
     - (555)893-145
