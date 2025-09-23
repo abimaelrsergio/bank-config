@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to Bank accounts related PRODUCTION APis"
+  message: "Hey, welcome to Bank accounts related prod APis"
   contactDetails:
     name: "{cipher}5401f836761d6ae842954d41ca3e6baa917101fc316584ca255a640c1e6fa093"
     email: "{cipher}9c203528d076ce10d0a6157bb3e5b26f46013e84325b1f3e18e9db1cadf8677a"
