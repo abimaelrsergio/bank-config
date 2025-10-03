@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related docker2 APIs"
+  message: "Welcome to Bank accounts related local APIs"
   contactDetails:
     name: "Irene Maria Rodrigues"
     email: "irene@gmail.com"
