@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+loans:
   message: "Welcome to Bank loans related local APIs"
   contactDetails:
     name: "Irene Maria Rodrigues"
