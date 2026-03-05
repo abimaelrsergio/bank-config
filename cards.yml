@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+cards:
   message: "Welcome to Bank cards related local APIs"
   contactDetails:
     name: "Irene Maria Rodrigues"
